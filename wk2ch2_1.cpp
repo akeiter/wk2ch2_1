@@ -10,6 +10,9 @@ int main()
 	int second;
 	int third;
 
+	int sum;
+	double average;
+
 	cout << "Please enter 3 numbers individually. Press enter after each number." << endl;
 	cin >> first;
 	cin >> second;
